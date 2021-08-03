@@ -1,11 +1,8 @@
-# JS web development scratch project includes.
-- webpack
-- eslint
-- style-lint
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
+# Leaderboard
 
-> This is an app TEMPLATE...
-
+> A minimalist Leaderboard app for the [Microverse](https://microverse.io) platform.
 
 ## Built With
 
@@ -15,7 +12,7 @@
 - Webpack-cli
 ## Live Demo
 
-<!-- [My Transactions App Live!](URL) -->
+[Leaderboard Live!](URL)
 
 ## Getting Started
 
@@ -23,16 +20,16 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
   
-- NODE.js
+- Node.js
 
 ### Setup
 
 - Use your github account and your terminal to clone this repository to your computer:
 
-`repo link ***************`
+`https://github.com/pountzas/Leaderboard.git`
 
 - Go to the cloned directory:
-`cd repo folder ***********`
+`cd To-do-or-not-to-do.git`
 
 - Run the following command to install dependencies:
 `npm install`
@@ -64,7 +61,7 @@ Run dist/index.html in your preferred browser.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](URL).
+Feel free to check the [issues page](https://github.com/pountzas/Leaderboard/issues).
 
 ## Show your support
 
